@@ -1,11 +1,13 @@
 import React from "react";
 import "./style.css";
 
-export default function App() {
+function App() {
   return (
     <div>
-      <h1>Hello StackBlitz!</h1>
-      <p>Start editing to see some magic happen :)</p>
+      <h1>Gene Map - Prototype</h1>
+      <p>This will be an awesome software to draw gene maps and create Construct Breakdown Form (CBF) for Golden Gate constructs.</p>
     </div>
   );
 }
+
+export default App

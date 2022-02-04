@@ -1,3 +1,35 @@
 h1, p {
   font-family: Lato;
 }
+body {
+  background-color: black;
+  color: #ff0000;
+}
+
+#app_container {
+  width:100%;
+  text-align:center;
+}
+
+#app_container > div {
+  width: 30%;
+  height: 420px;
+  display:inline-block; 
+  vertical-align: top;  
+  border-radius: 10px;
+  border-style: solid;
+  border-width: thin;
+  border-color: #ff0000;
+  margin:1%;
+}
+
+#L0 {
+}
+
+#L1 {
+
+}
+
+#L2 {
+
+}
