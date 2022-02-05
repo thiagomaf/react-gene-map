@@ -6,6 +6,10 @@ body {
   color: #ff0000;
 }
 
+#footer {
+  color: aqua;
+}
+
 #app_container {
   width:100%;
   text-align:center;
