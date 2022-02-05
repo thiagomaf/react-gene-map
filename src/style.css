@@ -16,9 +16,9 @@ body {
 }
 
 #app_container > div {
-  width: 30%;
-  height: 420px;
-  display:inline-block; 
+  /*width: 30%;*/
+  /*height: 420px;*/
+  /*display:inline-block;*/
   vertical-align: top;  
   border-radius: 10px;
   border-style: solid;
